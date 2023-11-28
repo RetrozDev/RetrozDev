@@ -10,7 +10,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=RetrozDev&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px; border-radius: 10px "/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px; border-radius: 50px "/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RetrozDev&icon=3&color=10)](https://visitcount.itsvg.in)
