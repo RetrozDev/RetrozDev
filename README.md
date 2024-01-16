@@ -11,7 +11,8 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px; border-radius: 50px "/>
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jcdcqdh2k7kllcca3stt7nrtva&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ff75a0)](https://github.com/kittinan/spotify-github-profile)
+
+![](https://spotify-github-profile.vercel.app/api/view?uid=31jcdcqdh2k7kllcca3stt7nrtva&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ff75a0)](https://github.com/kittinan/spotify-github-profile)
 ---
 [![](https://visitcount.itsvg.in/api?id=RetrozDev&icon=3&color=10)](https://visitcount.itsvg.in)
 
@@ -19,4 +20,3 @@
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/retroz57) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
