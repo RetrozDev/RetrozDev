@@ -12,7 +12,7 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px; border-radius: 50px "/>
 
-![](https://spotify-github-profile.vercel.app/api/view?uid=31jcdcqdh2k7kllcca3stt7nrtva&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=fcfcf6)
+![https://open.spotify.com/user/31jcdcqdh2k7kllcca3stt7nrtva?si=2d1096a791584b35](https://spotify-github-profile.vercel.app/api/view?uid=31jcdcqdh2k7kllcca3stt7nrtva&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=fcfcf6)
 ---
 [![](https://visitcount.itsvg.in/api?id=RetrozDev&icon=3&color=10)](https://visitcount.itsvg.in)
 
