@@ -14,7 +14,7 @@
 
 ![https://open.spotify.com/user/31jcdcqdh2k7kllcca3stt7nrtva?si=2d1096a791584b35](https://spotify-github-profile.vercel.app/api/view?uid=31jcdcqdh2k7kllcca3stt7nrtva&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=fcfcf6)
 ---
-[![](https://visitcount.itsvg.in/api?id=RetrozDev&icon=3&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=RetrozDev&label=Profile%20Views&color=10&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/retroz57) 
