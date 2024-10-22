@@ -1,11 +1,6 @@
-<img alt="Banner" src="pictures/banner.png)  
+![](pictures/banner.png)
 
-<a href="https://www.linkedin.com/in/ryan-barboza-880308253/" style="padding: 4px"> 
-    ![](https://img.shields.io/badge/linkedin-0d1117?style=flat&logo=linkedin&logoColor=white) 
-</a>
-<a href="mailto:ryanbarbozapro@gmail.com" style="padding: 4px"> 
-    ![](https://img.shields.io/badge/Contact me-0d1117?style=flat&logo=gmail&logoColor=white) 
-</a>
+![](https://img.shields.io/badge/linkedin-0d1117?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ryan-barboza-880308253/) ![](https://img.shields.io/badge/Contact%20me-0d1117?style=flat&logo=gmail&logoColor=white&link=mailto:ryanbarbozapro@gmail.com) 
 
 ## About me
 
