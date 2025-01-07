@@ -15,3 +15,4 @@ Whether creating elegant user interfaces or optimizing robust APIs, I strive to 
 
 ## Tech stack
 ![](https://img.shields.io/badge/Html-0d1117?style=flat&logo=html5&logoColor=white) ![](https://img.shields.io/badge/Css-0d1117?style=flat&logo=css3&logoColor=white) ![](https://img.shields.io/badge/Javascript-0d1117?style=flat&logo=javascript&logoColor=white) ![](https://img.shields.io/badge/React-0d1117?style=flat&logo=react&logoColor=white) ![](https://img.shields.io/badge/Sass-0d1117?style=flat&logo=sass&logoColor=white) ![](https://img.shields.io/badge/Express-0d1117?style=flat&logo=express&logoColor=white) ![](https://img.shields.io/badge/▤-Sql-0d1117?style=flat&logo=sql&logoColor=white&labelColor=0d1117) 
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=RetrozDev&hide=html,scss,stylus,blade,jupyter,lua%20notebook,python,css,shell,batchfile,dockerfile,typescript&&show_icons=true)
